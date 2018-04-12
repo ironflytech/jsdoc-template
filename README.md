@@ -1,5 +1,5 @@
-# Braintree JSDoc Template
-
+# Ironfly JSDoc Template
+This document is based off the Braintree JS Doc template.
 A clean, responsive documentation template with search and navigation highlighting for JSDoc 3. Forked from [github.com/nijikokun/minami](https://github.com/nijikokun/minami).
 
 ![Braintree JS Doc Template Screenshot](https://puu.sh/rWvW0/2831fd69d6.png)

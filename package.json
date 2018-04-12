@@ -1,7 +1,7 @@
 {
-  "name": "jsdoc-template",
+  "name": "@ironfly/jsdoc-template",
   "version": "3.2.0",
-  "description": "Braintree JSDoc 3 Template",
+  "description": "Ironfly Technologies JSDoc 3 Template",
   "main": "publish.js",
   "scripts": {
     "lint": "eslint .",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/braintree/jsdoc-template"
+    "url": "https://github.com/ironflytech/jsdoc-template"
   },
-  "author": "Braintreeps <code@getbraintree.com>",
+  "author": "Ironfly Technologies <support@ironflytechnologies.com>",
   "licenses": [
     {
       "type": "Apache-2.0",
@@ -19,9 +19,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/braintree/jsdoc-template"
+    "url": "https://github.com/ironflytech/jsdoc-template"
   },
-  "homepage": "https://github.com/braintree/jsdoc-template",
+  "homepage": "https://github.com/ironflytech/jsdoc-template",
   "devDependencies": {
     "eslint": "^2.13.1",
     "eslint-config-braintree": "^1.0.2",
